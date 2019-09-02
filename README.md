@@ -14,7 +14,8 @@ movies2004.csv
 
 2. Preprocess movie plot using NLP techniques
 >Files:  
-Yet to be uploaded [WIP]
+movies_nlp.ipynb [WIP]
+
 3. Use google trends to check which keywords from plot where googled around the release date
 >Files:  
-Yet to be uploaded [WIP]
+movies_trends.ipynb [WIP]
