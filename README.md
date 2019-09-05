@@ -6,9 +6,8 @@ My first project on github.
 I want to check if there is increased activity in googling particular keywords or historical events/characters after movie premiere.  
 Steps:
 1. Scrap info about movies from web [imdb top 250]
->Files:  
-Movies.py  
-Movies.ipynb  
+>Files:    
+movies_scrap.ipynb  
 movies.csv  
 movies2004.csv
 
