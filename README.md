@@ -8,8 +8,7 @@ Steps:
 1. Scrap info about movies from web [imdb top 250]
 >Files:    
 movies_scrap.ipynb  
-movies.csv  
-movies2004.csv
+imdb_movies.csv
 
 2. Preprocess movie plot using NLP techniques
 >Files:  
