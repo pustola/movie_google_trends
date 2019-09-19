@@ -1,5 +1,5 @@
 # movie_google_trends
-My first project on github. [Work in progress]
+My first project on github. [Work in progress]  
 Link to tableau dashboard created with scrapped data: https://public.tableau.com/profile/piotr3000#!/vizhome/imDB/Dashboard1
 
 ## Project overview
