@@ -1,3 +1,0 @@
-#costam komentarze
-
-testuje diff
